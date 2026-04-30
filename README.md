@@ -56,9 +56,5 @@ Mobile-first responsive design
 
 
 👨‍💻 Developer
-Mohammad Ashik
+Mohammad Ashikur Rahman
 Frontend Developer | React & Next.js Enthusiast
-
-📜 License
-
-This project is open-source and available under the MIT License.
