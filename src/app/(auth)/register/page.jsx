@@ -10,7 +10,7 @@ const RegisterPage = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [accepted, setAccepted] = useState(false);
 
-  
+
   const {
     register,
     handleSubmit,
@@ -28,7 +28,7 @@ const RegisterPage = () => {
       image: photo,
       callbackURL: "/",
     });
-    console.log(res, error)
+    
     if(error){
       alert(error.message)
     }
