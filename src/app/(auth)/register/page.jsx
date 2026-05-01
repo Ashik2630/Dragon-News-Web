@@ -10,6 +10,7 @@ const RegisterPage = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [accepted, setAccepted] = useState(false);
 
+  
   const {
     register,
     handleSubmit,
