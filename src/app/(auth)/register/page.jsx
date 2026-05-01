@@ -37,7 +37,7 @@ const RegisterPage = () => {
     }
   };
   return (
-    <div className="container mx-auto min-h-[80vh] flex justify-center items-center bg-slate-100">
+    <div className="container mx-auto min-h-[85vh] flex justify-center items-center bg-slate-100">
       <div className=" rounded-xl bg-white p-20">
         <h2 className="font-bold text-3xl text-center text-[#403F3F] mb-6">
           Register your Account
